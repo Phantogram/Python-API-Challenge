@@ -12,3 +12,7 @@ There is no correlation to cloudiness as this polt shows clouds occur everywhere
 
 ##### Latitude vs Wind Speed
 Wind speed appears to be fairly equal across all latitude points. One outlier exists at over 50 mph near latitude 20.
+
+
+##### Special Considerations
+I used jupyter nbextension enable --py gmaps in my environments to display both maps.  I also uploaded separate png files of the heat_map and marker_map.  My heat_map and marker_map both dispayed properly in Jupyter Notebook.  
